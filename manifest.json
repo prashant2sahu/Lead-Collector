@@ -1,0 +1,13 @@
+
+{
+    "manifest_version":3,
+    "version":"1.01",
+    "name": "Leads Collector ",
+    "action":{
+        "default_popup": "index.html",
+        "icon_popup":"icon.png"
+    },
+    "permissions": [
+        "tabs"
+    ]
+}
